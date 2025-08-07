@@ -778,7 +778,7 @@ GameObject:
   - component: {fileID: 8690867686242568028}
   - component: {fileID: 3755652205839526471}
   - component: {fileID: 8444012938523005657}
-  - component: {fileID: 760195617591113601}
+  - component: {fileID: 2399614363990712977}
   m_Layer: 5
   m_Name: WinPopup
   m_TagString: Untagged
@@ -844,7 +844,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 5
---- !u!114 &760195617591113601
+--- !u!114 &2399614363990712977
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -853,11 +853,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 7674768837382941133}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a220349a3dd566c4db825828d6f2c51f, type: 3}
+  m_Script: {fileID: 11500000, guid: 1395a0a8e233626428efe38b40f9ead4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _canvasGroup: {fileID: 6953320581847423771}
-  _popupRoot: {fileID: 890331324236135767}
+  _popupRoot: {fileID: 8690867686242568028}
   _titleImage: {fileID: 3240438544224449576}
   _stepsObj: {fileID: 3755039582084349954}
   _stepsText: {fileID: 293126375060226108}
